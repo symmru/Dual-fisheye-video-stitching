@@ -38,4 +38,5 @@ We also provide test videos. You can download [here](https://drive.google.com/dr
 
 ## References
 Our source code comes from [this repository](https://github.com/cynricfu/dual-fisheye-video-stitching). Thanks for the help.
+
 [Dual-fisheye lens stitching for 360-degree imaging](https://arxiv.org/pdf/1708.08988.pdf)
