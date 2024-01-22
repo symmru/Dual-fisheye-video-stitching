@@ -24,7 +24,9 @@ series = {EMS '23}
 ```
 ## Dependencies
 OpenCV-4.6
+
 Numpy
+
 Pytorch
 
 ## Running in Linux
