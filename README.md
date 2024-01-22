@@ -1,6 +1,7 @@
 # Learning-based Homography Matrix Optimization for Dual-fisheye Video Stitching
 Mufeng Zhu, Yang Sui, Bo Yuan, Yao Liu
 This repository contains the official authors implementation associated with the paper ["Learning-based Homography Matrix Optimization for Dual-fisheye Video Stitching"](https://dl.acm.org/doi/abs/10.1145/3609395.3610600). We provide source code for stitching dual-fisheye videos.
+
 Abstract: In this paper, we propose a novel feature-based video stitching algorithm for stitching back-to-back fisheye camera videos into one omnidirectional video in a video live streaming scenario. Our main contribution lies in a learning-based approach that refines the homography matrix in an online manner via gradient descent. The homography matrix is updated by training on a rolling dataset of feature points that are extracted and matched as new video frames are captured. Experimental results show that our method can create stitched images that better align matching features with lower mean squared error (MSE) than traditional feature-based stitching method. Furthermore, compared to vendor-supplied software (VUZE VR Studio) that uses calibration-based stitching, our method also produces visibly better results.
 ## BibTex
 ```bash
