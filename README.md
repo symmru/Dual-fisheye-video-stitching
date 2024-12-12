@@ -26,7 +26,7 @@ Pytorch
 python Fisheye_stitching.py -o output_file_path -i1 left_fisheye_video -i2 right_fisheye_video -f FOV
 ```
 
-We also provide test videos. You can download [here](https://drive.google.com/drive/u/0/folders/1GeUMMLfAjMSx9PY3jvAlSngmlrBlSwko)
+We also provide test videos. You can download [here](https://rutgers.box.com/s/dwntpeyww3umugrtty138sk53gf1dzobhttps://drive.google.com/drive/u/0/folders/1GeUMMLfAjMSx9PY3jvAlSngmlrBlSwko)
 
 ## References
 Our source code is derived from [this repository](https://github.com/cynricfu/dual-fisheye-video-stitching). Thanks for the help.
